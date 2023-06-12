@@ -2,6 +2,7 @@ baseURL = "https://marcperemiquel.github.io/me/"
 languageCode = "es-ca"
 title = "Marc Peremiquel at TICxCAT"
 theme = "ananke"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "ca"
 SectionPagesMenu = "main"
