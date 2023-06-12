@@ -1,11 +1,11 @@
 ---
 title: "Sobre"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Detalls de com fa uns anys, la carrera d'un enamorat del desenvolupament i les noves tecnologies, gira bruscament cap a un model Cloud Native, aprenent, ajudant, formant, acompanyant... tant a desenvolupadors com operadors, incorporant totes les eines i automatismes necessaris per assolir els objectius de CTTI."
 featured_image: '/images/home_sunset.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/avatar.png" title="me 2018" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_Marc Peremiquel_ (Barcelona: _1978_) ...

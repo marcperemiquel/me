@@ -5,10 +5,7 @@ omit_header_text: true
 description: We'd love to hear from you
 type: page
 menu: main
-
 ---
+If you want to contact me, just fill out the form below and I will try to get back to you as soon as possible.
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/mwkjgewb" >}}
